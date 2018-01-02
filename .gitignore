@@ -1,0 +1,9 @@
+*~
+*.log
+*.egg_info/
+*.pyc
+.DS_Store
+__pycache__/
+env/
+.vagrant/
+/ConsiderSiteReboot/html/
